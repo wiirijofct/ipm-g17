@@ -1,2 +1,2 @@
-# ipm-g17.github.io
+# ipm-g17
 Group 17 course webpage
